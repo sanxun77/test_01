@@ -5,7 +5,7 @@ data segment
 	db 'dec.............'
 	db 'dos.............'
 	db 'vax.............'
-	dw 0	;定义一个字形数据来保存cx
+	dw 0	;定义一个字形数据来保存cx.
 data ends
 
 code segment
